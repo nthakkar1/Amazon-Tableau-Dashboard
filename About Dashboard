@@ -1,0 +1,26 @@
+Created a Tableau Dashboard to visually represent Amazon trends.
+Downloaded the Dataset from Kaggle and used Chat-GPT to generate questions.
+The following questions have been identified and answered using the dashboard.
+
+  Overall Sales Analysis:
+    What is the overall trend in sales over time? Create a time series chart to visualize monthly or quarterly sales.
+  
+  Product Performance:
+    Which product categories have the highest sales? Create a bar chart to compare sales across different categories.
+
+  Size and Style Impact:
+    Do certain sizes or styles contribute more to sales? Explore the impact of product size and style on sales.
+
+  Sales Status Breakdown:
+    What is the distribution of sale statuses? Use a pie chart to show the percentage of successful sales, pending sales, and canceled sales.
+
+  Fulfillment Method Analysis:
+    How does the method of fulfillment (e.g., FBA, Seller Fulfilled) affect sales? Compare the performance of different fulfillment methods.
+
+  Courier Status Insights:
+    Explore the status of couriers and its impact on the delivery process. Identify any patterns or issues in courier status.
+
+  States by Quantity : 
+    Explore which are the top 10 states in India that order the most from Amazon.
+
+  Total size offered on Amazon, Total Quantity available on Amazon, Total Category Available on Amazon, and the Total Amount with Amazon.
